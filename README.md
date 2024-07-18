@@ -1,28 +1,28 @@
-# Lucca
+# Challenge 09
   
   ## Description
   
-  meu nome e lucca
+  README file generator
   
   ## Installation
   
-  no install
+  npm i 
   
   ## Usage
   
-  no usage
+  write node index.js on the terminal
   
   ## Credits
   
-  no
+  N/A
   
   ## Contributing
   
-  no guidelines
+  N/A
   
   ## Tests
   
-  node inde.js
+  N/A
   
   ## License
   
